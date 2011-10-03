@@ -1,2 +1,2 @@
-This is a file for feature X 
-1 change!
+This is a file for feature X
+Another change
